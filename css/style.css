@@ -3,11 +3,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-header {
+header,
+footer {
     background: #333;
     color: #fff;
     text-align: center;
     padding: 25px 0;
+}
+
+header {
     margin-bottom: 25px;
 }
 
@@ -19,9 +23,5 @@ main {
 }
 
 footer{
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 25px 0;
     margin-top: 25px;
 }
