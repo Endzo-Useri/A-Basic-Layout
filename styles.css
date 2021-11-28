@@ -3,31 +3,31 @@ html {
 }
 
 body {
-    background: ghostwhite;
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
+	background: ghostwhite;
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
 }
 
 header,
 footer {
-    background: hsl(0, 0%, 20%);
-    color: hsl(0, 0%, 100%);
-    text-align: center;
-    padding: 1.5625em 0;
+	background: hsl(0, 0%, 20%);
+	color: hsl(0, 0%, 100%);
+	text-align: center;
+	padding: 1.5625em 0;
 }
 
 header {
-    margin-bottom: 1.5625em;
+	margin-bottom: 1.5625em;
 }
 
 main {
-    background: hsl(180, 100%, 50%);
-    width: 600px;
-    padding: 100px;
-    border: 5px solid red;
-    margin: 0 auto;
+	border: 5px solid red;
+	background: hsl(180, 100%, 50%);
+	width: 600px;
+	padding: 6.25em;
+	margin: 0 auto;
 }
 
 footer{
-    margin-top: 25px;
+	margin-top: 25px;
 }
