@@ -10,8 +10,8 @@ body {
 
 header,
 footer {
-    background: #333;
-    color: #fff;
+    background: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
     text-align: center;
     padding: 25px 0;
 }
